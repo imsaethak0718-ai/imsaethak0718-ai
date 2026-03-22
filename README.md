@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on VyavsAI<br>👯 I’m looking to collaborate on various projects<br>🌱 I’m currently learning Web development & AI/ML<br>⚡ Fun fact : I can code for pizzas..
+🔭 I’m currently working on eLoktantra<br>👯 I’m looking to collaborate on various projects<br>🌱 I’m currently learning Web development & AI/ML<br>⚡ Fun fact : I can code for pizzas..
 
 
 ## 🌐 Socials:
